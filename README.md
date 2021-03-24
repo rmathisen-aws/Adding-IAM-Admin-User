@@ -14,6 +14,7 @@ Attach existing policies directly → Check "AdministratorAccess" \
 No Tags \
 Create User
 
+**Sign-in to new User & assign MFA:**
 Copy Sign-in URL into clipboard & sign out of your account \
 Go to that URL & enter Username & PW info \
 Assign MFA to this account for additional Security \

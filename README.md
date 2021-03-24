@@ -16,4 +16,5 @@ Create User
 
 Copy Sign-in URL into clipboard & sign out of your account \
 Go to that URL & enter Username & PW info \
-Assign MFA to this account for additional Security
+Assign MFA to this account for additional Security \
+Sign out & sign back in to test for MFA

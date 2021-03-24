@@ -1,4 +1,4 @@
-# Adding-IAM-Admin-User
+# Adding IAM Admin User
 
 **Customize Sign-in URL:** \
 IAM → Dashboard \

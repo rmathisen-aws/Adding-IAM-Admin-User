@@ -1,7 +1,7 @@
 # Adding IAM Admin User
 
 ### Introduction:
-
+Logging into the Account Root user isn't best practice. You should always create IAM Users within AWS Accounts and use those, rather than the Account Root User. 
 
 
 ### Summary:

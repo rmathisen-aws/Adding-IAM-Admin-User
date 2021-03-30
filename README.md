@@ -1,5 +1,12 @@
 # Adding IAM Admin User
 
+### Introduction:
+
+
+### Summary:
+Create a user with 
+\
+\
 **Customize Sign-in URL:** \
 IAM → Dashboard \
 Sign-in URL for IAM users in this account → Customize \
@@ -17,5 +24,5 @@ Create User
 **Sign-in to new User & assign MFA:** \
 Copy Sign-in URL into clipboard & sign out of your account \
 Go to that URL & enter Username & PW info \
-Assign MFA to this account for additional Security \
+Assign MFA to this user for additional Security ([Tutorial on assigning MFA](https://github.com/rmathisen-aws/Multi-Factor_Authentication/blob/main/README.md)) \
 Sign out & sign back in to test for MFA
